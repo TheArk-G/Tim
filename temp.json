@@ -5,7 +5,6 @@
         "name": "",
         "status": false
     },
-    
     "addImage": {
         "name": "",
         "status": false
@@ -26,23 +25,22 @@
         "c9a9f741633543d70449a7d9801cbbd28"
     ],
     "apiKey": "8e3cf182-807a-4186-9261-a6c8741a9237",
-    "autoAdd": true,
+    "autoAdd": false,
+    "leaveMC": false,
     "autoJoin": false,
-    "autoJoinTicket": true,
+    "autoJoinTicket": false,
     "autoLeave": false,
     "autoLike": false,
-    "autoRead": true,
-    "qrprotect": false,
-    "antijs": false,
-    "autoRead1": true,
+    "autoRead": false,
+    "autoRead1": false,
     "autoReply": false,
     "autoRestart": false,
-    "protect_note": [],
     "botMute": [],
     "botOff": [],
+    "changeCover": false,
     "changeGroupPicture": [],
     "changePicture": false,
-    "changeCoverProfile": false,
+    "changeProfileCover": "",
     "changeProfileVideo": {
         "picture": "tmp/pict.bin",
         "stage": 2,
@@ -73,7 +71,7 @@
         "status": false
     },
     "getReader": {},
-    "keyCommand": ".",
+    "keyCommand": "khie ",
     "leaveMessage": false,
     "leavePesan": "Halo @!, kenapa leave dari grup {gname}??",
     "mayhem": false,
@@ -107,11 +105,11 @@
         }
     },
     "myProfile": {
-        "coverId": "d6326ff45e1924f0ca2865ce7c3195ce",
+        "coverId": "8537bf703a1bfec6f3334c2d428e8dc9",
         "coverStatus": "",
-        "displayName": "Khie",
-        "pictureStatus": "0hERzxkpTOGn1HATfFiw1lKntEFBAwLxw1P2QHTGQEFB89Ngl-emIAG2ECERk9NAh4cjACTjcCEE9i",
-        "statusMessage": "</>",
+        "displayName": "Frzky",
+        "pictureStatus": "0hU0ZFFeghCh9nPyANZct1SFt6BHIQEQxXH1AXe0JoBC4eCEwcWw0RLUE7UCYeW0sbXFtAfkI6AChM",
+        "statusMessage": "Zzzt",
         "videoProfile": null
     },
     "notag": false,
@@ -119,11 +117,9 @@
     "protectGroupName": false,
     "protectGroupQr": false,
     "publicMode": false,
+    "qrprotect": false,
     "readerPesan": "Gw @!, Kang Sider",
     "replyPesan": "What's wrong\nI'm busy right now",
-    "comd": {
-        "chat": ""
-    },
     "resendChat": false,
     "responGc": false,
     "restartBot": null,
@@ -131,6 +127,7 @@
     "server": "VPS",
     "setKey": false,
     "timeRestart": 43200,
+    "ttt": "line://app/1602687308-GXq4Vvk9?type=text&text=",
     "unsendMessage": false,
     "userAgent": [
         "Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0",
@@ -157,5 +154,5 @@
     "userMentioned": {},
     "waktu": 10,
     "welcomeMessage": false,
-    "welcomePesan": "Selamat datang di grup {gname} , Semoga betah yah 􀜅􀆚Hare Krishna􏿿"
+    "welcomePesan": "Selamat datang di grup {gname} @! Semoga betah yah 􀜅􀆚Hare Krishna􏿿"
 }
